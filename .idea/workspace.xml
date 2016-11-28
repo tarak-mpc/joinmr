@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2916fc3-16bf-4310-8d0a-a9623c07ad2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="e2916fc3-16bf-4310-8d0a-a9623c07ad2a" name="Default" comment="commit with intellij">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/join/mr/JoinDriver.java" afterPath="$PROJECT_DIR$/src/main/java/join/mr/JoinDriver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-join.mr.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-join.mr.AppTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/join.mr.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/join.mr.AppTest.txt" />
@@ -387,6 +385,14 @@
       <option name="presentableId" value="Default" />
       <updated>1478789590593</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit with intellij">
+      <created>1480338880130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480338880130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,6 +449,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit with intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit with intellij" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -594,6 +604,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
