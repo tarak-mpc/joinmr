@@ -18,7 +18,7 @@ public class JoinDriver {
 
         job.setJarByClass(JoinDriver.class);
 
-        job.setJobName("Job_name");
+        job.setJobName("Job");
 
         Path leftInputPath = new Path(args[0]);
         Path rightInputPath = new Path(args[1]);
