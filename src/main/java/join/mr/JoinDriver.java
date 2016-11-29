@@ -19,8 +19,6 @@ public class JoinDriver {
         job.setJarByClass(JoinDriver.class);
 
 
-        job.setJobName("Jobless");
-
         job.setJobName("Nice_Job");
 
 
